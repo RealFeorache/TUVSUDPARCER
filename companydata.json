@@ -6039,7 +6039,1222 @@
         "certificate_number": "E8A 17 12 93186 032",
         "date": "2017-12-27"
     },
-    "7kupp": "empty",
-    "7kupq": "empty",
-    "7kupr": "empty"
+    "7kuq0": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "E8A 17 12 39909 776",
+        "date": "2017-12-27"
+    },
+    "7kuq7": {
+        "company_name": "Guangdong LAC Smart Lighting Co., Ltd.",
+        "certificate_number": "E8A 17 12 98419 017",
+        "date": "2017-12-27"
+    },
+    "7kuqn": {
+        "company_name": "SPG Co., Ltd.",
+        "certificate_number": "B 17 12 39314 244",
+        "date": "2017-12-27"
+    },
+    "7kur5": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "E8A 17 11 39909 697",
+        "date": "2017-12-27"
+    },
+    "7kurd": {
+        "company_name": "AGC Lighting Co., Ltd.",
+        "certificate_number": "U6 17 11 94381 043",
+        "date": "2017-12-27"
+    },
+    "7kurl": {
+        "company_name": "Hancon Industrial Co., Ltd.",
+        "certificate_number": "E8A 17 12 30678 193",
+        "date": "2017-12-27"
+    },
+    "7kurt": {
+        "company_name": "Changzhou Baojie Electric Motors Mfg. Co., Ltd.",
+        "certificate_number": "N8A 17 12 45086 049",
+        "date": "2017-12-27"
+    },
+    "7kus1": {
+        "company_name": "Zhejiang Oulun Electric Co., Ltd.",
+        "certificate_number": "Z1A 17 12 85242 072",
+        "date": "2017-12-27"
+    },
+    "7kusj": {
+        "company_name": "Zhejiang Oulun Electric Co., Ltd.",
+        "certificate_number": "Z1A 17 12 85242 072",
+        "date": "2017-12-27"
+    },
+    "7kute": {
+        "company_name": "Hangzhou Ouge Electrical Appliances Co., Ltd",
+        "certificate_number": "E8A 17 12 88902 034",
+        "date": "2017-12-27"
+    },
+    "7kutw": {
+        "company_name": "Ningbo Singfun Electric Appliance Co., Ltd.",
+        "certificate_number": "E8A 17 12 81785 077",
+        "date": "2017-12-27"
+    },
+    "7kuu4": {
+        "company_name": "Ningbo Singfun Electric Appliance Co., Ltd.",
+        "certificate_number": "E8A 17 12 81785 078",
+        "date": "2017-12-27"
+    },
+    "7kuuk": {
+        "company_name": "Zhejiang Shenghui Lighting Co., Ltd.",
+        "certificate_number": "E8A 17 12 63990 992",
+        "date": "2017-12-27"
+    },
+    "7kuus": {
+        "company_name": "Yongkang Wise Industrial Co.,Ltd",
+        "certificate_number": "Z1A 17 12 97514 052",
+        "date": "2017-12-27"
+    },
+    "7kuva": {
+        "company_name": "Yongkang Wise Industrial Co.,Ltd",
+        "certificate_number": "Z1A 17 12 97514 052",
+        "date": "2017-12-27"
+    },
+    "7kuvx": {
+        "company_name": "DONGGUAN MONHE POWER CO., LTD.",
+        "certificate_number": "Z1A 17 12 80744 024",
+        "date": "2017-12-27"
+    },
+    "7kuwf": {
+        "company_name": "DONGGUAN MONHE POWER CO., LTD.",
+        "certificate_number": "Z1A 17 12 80744 024",
+        "date": "2017-12-27"
+    },
+    "7kuwn": {
+        "company_name": "Fulltrade International GmbH",
+        "certificate_number": "Z1A 17 12 74037 115",
+        "date": "2017-12-27"
+    },
+    "7kuwv": {
+        "company_name": "Fulltrade International GmbH",
+        "certificate_number": "Z1A 17 12 74037 115",
+        "date": "2017-12-27"
+    },
+    "7kuy9": {
+        "company_name": "Komperna\u00df Handelsgesellschaft mbH",
+        "certificate_number": "Z1A 17 12 30574 01844",
+        "date": "2017-12-27"
+    },
+    "7kuyg": {
+        "company_name": "Komperna\u00df Handelsgesellschaft mbH",
+        "certificate_number": "Z1A 17 12 30574 01844",
+        "date": "2017-12-27"
+    },
+    "7kuyo": {
+        "company_name": "Dirk Rossmann GmbH",
+        "certificate_number": "Z1A 17 12 53605 323",
+        "date": "2017-12-27"
+    },
+    "7kuz6": {
+        "company_name": "Dirk Rossmann GmbH",
+        "certificate_number": "Z1A 17 12 53605 323",
+        "date": "2017-12-27"
+    },
+    "7kva6": {
+        "company_name": "HAGS Aneby AB",
+        "certificate_number": "Z2 17 12 22757 973",
+        "date": "2017-12-27"
+    },
+    "7kvae": {
+        "company_name": "HAGS Aneby AB",
+        "certificate_number": "Z2 17 12 22757 971",
+        "date": "2017-12-27"
+    },
+    "7kvam": {
+        "company_name": "Jiangxi Gaochao Industrial Co., Ltd.",
+        "certificate_number": "B 17 12 03006 001",
+        "date": "2017-12-27"
+    },
+    "7kvba": {
+        "company_name": "Guangdong Midea Consumer Electric Manufacturing Co., Ltd.",
+        "certificate_number": "E8A 17 12 51286 01121",
+        "date": "2017-12-27"
+    },
+    "7kvcf": {
+        "company_name": "Caledonian Cables Limited",
+        "certificate_number": "Z1 17 12 98200 014",
+        "date": "2017-12-27"
+    },
+    "7kvdd": {
+        "company_name": "HAGS Aneby AB",
+        "certificate_number": "Z2 17 12 22757 974",
+        "date": "2017-12-27"
+    },
+    "7kvdt": {
+        "company_name": "HAGS Aneby AB",
+        "certificate_number": "Z2 17 12 22757 979",
+        "date": "2017-12-27"
+    },
+    "7kve1": {
+        "company_name": "Guangzhou Hongqi Optical Instrument Technology Co., Ltd.",
+        "certificate_number": "Q5 17 10 77662 003",
+        "date": "2017-12-27"
+    },
+    "7kve9": {
+        "company_name": "Guangzhou Hongqi Optical Instrument Technology Co., Ltd.",
+        "certificate_number": "Q5 17 10 77662 003",
+        "date": "2017-12-27"
+    },
+    "7kvhx": {
+        "company_name": "ADVENTA HEALTH SDN. BHD.",
+        "certificate_number": "G1 17 11 70752 020",
+        "date": "2017-12-27"
+    },
+    "7kvi5": {
+        "company_name": "ADVENTA HEALTH SDN. BHD.",
+        "certificate_number": "G1 17 11 70752 020",
+        "date": "2017-12-27"
+    },
+    "7kvin": {
+        "company_name": "SORIN GROUP ITALIA S.r.l.",
+        "certificate_number": "Q5 17 11 01664 019",
+        "date": "2017-12-27"
+    },
+    "7kviv": {
+        "company_name": "SORIN GROUP ITALIA S.r.l.",
+        "certificate_number": "Q5 17 11 01664 019",
+        "date": "2017-12-27"
+    },
+    "7kvk9": {
+        "company_name": "Jiangsu Caina Medical Co., Ltd.",
+        "certificate_number": "Q5 17 11 02771 001",
+        "date": "2017-12-27"
+    },
+    "7kvkh": {
+        "company_name": "Jiangsu Caina Medical Co., Ltd.",
+        "certificate_number": "Q5 17 11 02771 001",
+        "date": "2017-12-27"
+    },
+    "7kvko": {
+        "company_name": "Jiangsu Caina Medical Co., Ltd.",
+        "certificate_number": "G2 17 11 02771 002",
+        "date": "2017-12-27"
+    },
+    "7kvkw": {
+        "company_name": "Jiangsu Caina Medical Co., Ltd.",
+        "certificate_number": "G2 17 11 02771 002",
+        "date": "2017-12-27"
+    },
+    "7kvle": {
+        "company_name": "Jiangsu Caina Medical Co., Ltd.",
+        "certificate_number": "G2S 17 11 02771 003",
+        "date": "2017-12-27"
+    },
+    "7kvlm": {
+        "company_name": "Jiangsu Caina Medical Co., Ltd.",
+        "certificate_number": "G2S 17 11 02771 003",
+        "date": "2017-12-27"
+    },
+    "7kvm2": {
+        "company_name": "Home Resource Industrial Co., Ltd.",
+        "certificate_number": "N8A 17 12 30279 183",
+        "date": "2017-12-27"
+    },
+    "7kvma": {
+        "company_name": "Micsafe Medical Group (China) Co., Ltd",
+        "certificate_number": "Q6 17 10 02079 001",
+        "date": "2017-12-27"
+    },
+    "7kvms": {
+        "company_name": "Micsafe Medical Group (China) Co., Ltd",
+        "certificate_number": "Q6 17 10 02079 001",
+        "date": "2017-12-27"
+    },
+    "7kvn0": {
+        "company_name": "Ningbo Tianbo First Aid Product Co., Ltd.,",
+        "certificate_number": "G2S 17 08 01517 001",
+        "date": "2017-12-27"
+    },
+    "7kvn8": {
+        "company_name": "Ningbo Tianbo First Aid Product Co., Ltd.,",
+        "certificate_number": "G2S 17 08 01517 001",
+        "date": "2017-12-27"
+    },
+    "7kvot": {
+        "company_name": "Transdev Electronics(Shenzhen) Co., Ltd.",
+        "certificate_number": "U8V 17 12 49825 003",
+        "date": "2017-12-27"
+    },
+    "7kvpb": {
+        "company_name": "Kanto Distribution Inc.",
+        "certificate_number": "U8 17 12 83298 006",
+        "date": "2017-12-27"
+    },
+    "7kvpr": {
+        "company_name": "bioM\u00e9rieux SA",
+        "certificate_number": "U8 17 12 71529 005",
+        "date": "2017-12-27"
+    },
+    "7kvqw": {
+        "company_name": "PVS N.V.",
+        "certificate_number": "CBS 17 12 89193 012",
+        "date": "2017-12-28"
+    },
+    "7kvrc": {
+        "company_name": "Winpower Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 01506 001",
+        "date": "2017-12-28"
+    },
+    "7kvrk": {
+        "company_name": "Shenzhen Frecom Electronics Co., Ltd.",
+        "certificate_number": "CBS 17 12 78130 216",
+        "date": "2017-12-28"
+    },
+    "7kvs2": {
+        "company_name": "Senchuang Industrial (Shenzhen) Co., Ltd.",
+        "certificate_number": "CBS 17 12 02461 002",
+        "date": "2017-12-28"
+    },
+    "7kvsa": {
+        "company_name": "Mass Power Electronic Limited",
+        "certificate_number": "CBS 17 12 73014 537",
+        "date": "2017-12-28"
+    },
+    "7kvsi": {
+        "company_name": "Shenzhen Huikeyuan Electronic Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 85424 098",
+        "date": "2017-12-28"
+    },
+    "7kvsq": {
+        "company_name": "Shenzhen Huikeyuan Electronic Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 85424 104",
+        "date": "2017-12-28"
+    },
+    "7kvt7": {
+        "company_name": "Konnext Corporation Limited",
+        "certificate_number": "CBS 17 12 97423 010",
+        "date": "2017-12-28"
+    },
+    "7kvtf": {
+        "company_name": "BMZ Company Limited",
+        "certificate_number": "CBS 17 12 82869 033",
+        "date": "2017-12-28"
+    },
+    "7kvtn": {
+        "company_name": "Husqvarna AB",
+        "certificate_number": "CBS 17 12 24735 052",
+        "date": "2017-12-28"
+    },
+    "7kvtv": {
+        "company_name": "Kanto Distribution Inc.",
+        "certificate_number": "CBS 17 12 83298 007",
+        "date": "2017-12-28"
+    },
+    "7kvu3": {
+        "company_name": "DONGGUAN CITILAND ELECTRONICS CO., LTD.",
+        "certificate_number": "CBS 17 12 93671 041",
+        "date": "2017-12-28"
+    },
+    "7kvut": {
+        "company_name": "Dongguan Guanjin Electronics Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 80695 248",
+        "date": "2017-12-28"
+    },
+    "7kvv1": {
+        "company_name": "CORSAIR COMPONENTS, INC.",
+        "certificate_number": "CBS 17 12 60606 041",
+        "date": "2017-12-28"
+    },
+    "7kvv9": {
+        "company_name": "LEDVANCE GmbH",
+        "certificate_number": "CBS 17 12 95688 158",
+        "date": "2017-12-28"
+    },
+    "7kvvh": {
+        "company_name": "Longer Lighting Co., Ltd.",
+        "certificate_number": "CBS 17 12 76831 255",
+        "date": "2017-12-28"
+    },
+    "7kvvy": {
+        "company_name": "ID PORTE LIMITED",
+        "certificate_number": "CBS 17 12 02845 001",
+        "date": "2017-12-28"
+    },
+    "7kvw6": {
+        "company_name": "Rifen International Ltd.",
+        "certificate_number": "CBS 17 12 88741 089",
+        "date": "2017-12-28"
+    },
+    "7kvwe": {
+        "company_name": "Gree Electric Appliances, Inc. of Zhuhai",
+        "certificate_number": "CBS 17 12 34521 463",
+        "date": "2017-12-28"
+    },
+    "7kvwm": {
+        "company_name": "X-GEM SAS",
+        "certificate_number": "CBS 17 12 94237 014",
+        "date": "2017-12-28"
+    },
+    "7kvwu": {
+        "company_name": "X-GEM SAS",
+        "certificate_number": "CBS 17 12 94237 013",
+        "date": "2017-12-28"
+    },
+    "7kvxc": {
+        "company_name": "GD Midea Air-Conditioning Equipment Co., Ltd.",
+        "certificate_number": "CBS 17 12 54647 02647",
+        "date": "2017-12-28"
+    },
+    "7kvxk": {
+        "company_name": "Alfred K\u00e4rcher SE &amp; Co. KG",
+        "certificate_number": "CBS 17 12 10088 01584",
+        "date": "2017-12-28"
+    },
+    "7kvy8": {
+        "company_name": "Shenzhen 3sun Electronics Co., Ltd.",
+        "certificate_number": "Z2 17 12 01186 001",
+        "date": "2017-12-28"
+    },
+    "7kvyp": {
+        "company_name": "Inventec Corporation",
+        "certificate_number": "CBS 17 12 36683 274",
+        "date": "2017-12-28"
+    },
+    "7kvz5": {
+        "company_name": "Foxlink Technology Ltd.",
+        "certificate_number": "CBS 17 12 40735 377",
+        "date": "2017-12-28"
+    },
+    "7kvzd": {
+        "company_name": "Xiamen Innov Electronics. Tech Co., Ltd.",
+        "certificate_number": "Z1A 17 12 93114 017",
+        "date": "2017-12-28"
+    },
+    "7kvzv": {
+        "company_name": "Xiamen Innov Electronics. Tech Co., Ltd.",
+        "certificate_number": "Z1A 17 12 93114 017",
+        "date": "2017-12-28"
+    },
+    "7kwa5": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "B 17 12 79136 211",
+        "date": "2017-12-28"
+    },
+    "7kwad": {
+        "company_name": "WINUS TECHNOLOGY CO., LTD",
+        "certificate_number": "E8A 17 12 03161 001",
+        "date": "2017-12-28"
+    },
+    "7kwal": {
+        "company_name": "Vision X Global Co., Ltd.",
+        "certificate_number": "E8A 17 11 02514 001",
+        "date": "2017-12-28"
+    },
+    "7kwat": {
+        "company_name": "Longer Lighting Co., Ltd.",
+        "certificate_number": "E8A 17 12 76831 254",
+        "date": "2017-12-28"
+    },
+    "7kwc7": {
+        "company_name": "Luceco plc",
+        "certificate_number": "N8A 17 12 99482 014",
+        "date": "2017-12-28"
+    },
+    "7kwdc": {
+        "company_name": "OSRAM China Lighting Ltd.",
+        "certificate_number": "CB 17 12 75505 188",
+        "date": "2017-12-28"
+    },
+    "7kwdk": {
+        "company_name": "Shenzhen Ferex Electrical Co., Ltd.",
+        "certificate_number": "CBS 17 12 70531 088",
+        "date": "2017-12-28"
+    },
+    "7kwff": {
+        "company_name": "DASAN Network Solutions, Inc.",
+        "certificate_number": "CBS 17 12 02304 003",
+        "date": "2017-12-28"
+    },
+    "7kwfv": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "N8A 17 12 79136 209",
+        "date": "2017-12-28"
+    },
+    "7kwg3": {
+        "company_name": "Guangzhou Bouncia Inflatables Limited",
+        "certificate_number": "Z1 17 12 92701 003",
+        "date": "2017-12-28"
+    },
+    "7kwgb": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "B 17 12 79136 210",
+        "date": "2017-12-28"
+    },
+    "7kwgt": {
+        "company_name": "New H3C Technologies Co., Ltd.",
+        "certificate_number": "B 17 12 57774 03515",
+        "date": "2017-12-28"
+    },
+    "7kwh1": {
+        "company_name": "Yangzhou Qiangling Co., Ltd",
+        "certificate_number": "E8A 17 12 95021 064",
+        "date": "2017-12-28"
+    },
+    "7kwh9": {
+        "company_name": "Venture International Pte Ltd",
+        "certificate_number": "CBS 17 12 89813 020",
+        "date": "2017-12-28"
+    },
+    "7kwhh": {
+        "company_name": "DASAN Network Solutions, Inc.",
+        "certificate_number": "CBS 17 12 02304 004",
+        "date": "2017-12-28"
+    },
+    "7kwhp": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "N8A 17 12 79136 205",
+        "date": "2017-12-28"
+    },
+    "7kwi6": {
+        "company_name": "Fellowes Inc.",
+        "certificate_number": "E8A 17 12 54064 01205",
+        "date": "2017-12-28"
+    },
+    "7kwie": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "B 17 12 79136 206",
+        "date": "2017-12-28"
+    },
+    "7kwim": {
+        "company_name": "Horstmann GmbH &amp; Co. KG",
+        "certificate_number": "E8A 17 12 85031 043",
+        "date": "2017-12-28"
+    },
+    "7kwiu": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "N8A 17 12 79136 203",
+        "date": "2017-12-28"
+    },
+    "7kwj2": {
+        "company_name": "Eyarn Lighting Ltd.",
+        "certificate_number": "N8A 17 12 59699 082",
+        "date": "2017-12-28"
+    },
+    "7kwjk": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "B 17 12 79136 204",
+        "date": "2017-12-28"
+    },
+    "7kwk8": {
+        "company_name": "Opple Lighting Co.,Ltd",
+        "certificate_number": "CBS 17 12 86830 070",
+        "date": "2017-12-28"
+    },
+    "7kwkg": {
+        "company_name": "Light Tec Limited",
+        "certificate_number": "N8A 17 12 56314 324",
+        "date": "2017-12-28"
+    },
+    "7kwkx": {
+        "company_name": "Jinan SunMing Energy Technology Co., Ltd.",
+        "certificate_number": "Z2 17 12 02854 002",
+        "date": "2017-12-28"
+    },
+    "7kwl5": {
+        "company_name": "Jinan SunMing Energy Technology Co., Ltd.",
+        "certificate_number": "Z2 17 12 02854 001",
+        "date": "2017-12-28"
+    },
+    "7kwll": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "B 17 12 79136 208",
+        "date": "2017-12-28"
+    },
+    "7kwm3": {
+        "company_name": "Light Tec Limited",
+        "certificate_number": "N8A 17 11 56314 315",
+        "date": "2017-12-28"
+    },
+    "7kwmb": {
+        "company_name": "Nanjing Tangfeng electromechanical Co. Ltd.",
+        "certificate_number": "E8A 17 12 88634 040",
+        "date": "2017-12-28"
+    },
+    "7kwmr": {
+        "company_name": "Jiangsu Tenwei Electronic Co., Ltd.",
+        "certificate_number": "E8A 17 12 79504 036",
+        "date": "2017-12-28"
+    },
+    "7kwnh": {
+        "company_name": "HEFEI KADI BIOLOGICAL PHARMACEUTICAL CO., LTD.",
+        "certificate_number": "Q5 17 10 01684 001",
+        "date": "2017-12-28"
+    },
+    "7kwno": {
+        "company_name": "HEFEI KADI BIOLOGICAL PHARMACEUTICAL CO., LTD.",
+        "certificate_number": "Q5 17 10 01684 001",
+        "date": "2017-12-28"
+    },
+    "7kwnw": {
+        "company_name": "KUNSHAN JIULUN ELECTRIC VEHICLE LTD.",
+        "certificate_number": "E8A 17 12 99324 003",
+        "date": "2017-12-28"
+    },
+    "7kwo4": {
+        "company_name": "Kingfisher International Products Limited",
+        "certificate_number": "E8A 17 12 94667 059",
+        "date": "2017-12-28"
+    },
+    "7kwoc": {
+        "company_name": "HEFEI KADI BIOLOGICAL PHARMACEUTICAL CO., LTD.",
+        "certificate_number": "V1 17 10 01684 002",
+        "date": "2017-12-28"
+    },
+    "7kwou": {
+        "company_name": "HEFEI KADI BIOLOGICAL PHARMACEUTICAL CO., LTD.",
+        "certificate_number": "V1 17 10 01684 002",
+        "date": "2017-12-28"
+    },
+    "7kwp2": {
+        "company_name": "Jiangsu Tenwei Electronic Co., Ltd.",
+        "certificate_number": "E8A 17 12 79504 037",
+        "date": "2017-12-28"
+    },
+    "7kwpa": {
+        "company_name": "Pelucchi llluminazione Co.,Limited",
+        "certificate_number": "N8A 17 12 96867 012",
+        "date": "2017-12-28"
+    },
+    "7kwpi": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G1 17 11 42208 026",
+        "date": "2017-12-28"
+    },
+    "7kwpq": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G1 17 11 42208 026",
+        "date": "2017-12-28"
+    },
+    "7kwqn": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G1 17 11 42208 027",
+        "date": "2017-12-28"
+    },
+    "7kwqv": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G1 17 11 42208 027",
+        "date": "2017-12-28"
+    },
+    "7kwrd": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G1 17 11 42208 029",
+        "date": "2017-12-28"
+    },
+    "7kwrl": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G1 17 11 42208 029",
+        "date": "2017-12-28"
+    },
+    "7kwrt": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "CBS 17 12 39909 720",
+        "date": "2017-12-28"
+    },
+    "7kws1": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G2 17 11 42208 028",
+        "date": "2017-12-28"
+    },
+    "7kws9": {
+        "company_name": "OSCAR BOSCAROL S.R.L.",
+        "certificate_number": "G2 17 11 42208 028",
+        "date": "2017-12-28"
+    },
+    "7kwt6": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "N8A 17 12 39909 780",
+        "date": "2017-12-28"
+    },
+    "7kwte": {
+        "company_name": "Visual Comfort &amp; Co.",
+        "certificate_number": "N8A 17 12 97720 024",
+        "date": "2017-12-28"
+    },
+    "7kwu4": {
+        "company_name": "Ningbo Thrive Lighting Electric Appliance Co., Ltd.",
+        "certificate_number": "E8A 17 11 77857 023",
+        "date": "2017-12-28"
+    },
+    "7kwwt": {
+        "company_name": "Jinhua Gaojiu Electric Equipment Co., Ltd.",
+        "certificate_number": "E8A 17 12 91812 062",
+        "date": "2017-12-28"
+    },
+    "7kwx1": {
+        "company_name": "ADVENTA HEALTH SDN. BHD.",
+        "certificate_number": "G2 17 11 70752 021",
+        "date": "2017-12-28"
+    },
+    "7kwx9": {
+        "company_name": "ADVENTA HEALTH SDN. BHD.",
+        "certificate_number": "G2 17 11 70752 021",
+        "date": "2017-12-28"
+    },
+    "7kwxr": {
+        "company_name": "Shenzhen Ferex Electrical Co., Ltd.",
+        "certificate_number": "N8A 17 12 70531 091",
+        "date": "2017-12-28"
+    },
+    "7kwxz": {
+        "company_name": "Venture International Pte Ltd",
+        "certificate_number": "CBS 17 12 89813 021",
+        "date": "2017-12-28"
+    },
+    "7kwy7": {
+        "company_name": "Shenzhen Ferex Electrical Co., Ltd.",
+        "certificate_number": "Z1A 17 12 70531 090",
+        "date": "2017-12-28"
+    },
+    "7kwyf": {
+        "company_name": "Shenzhen Ferex Electrical Co., Ltd.",
+        "certificate_number": "Z1A 17 12 70531 090",
+        "date": "2017-12-28"
+    },
+    "7kwym": {
+        "company_name": "INVENTRONICS (HANGZHOU), INC.",
+        "certificate_number": "N8A 17 12 79136 207",
+        "date": "2017-12-28"
+    },
+    "7kwz4": {
+        "company_name": "ADVENTA HEALTH SDN. BHD.",
+        "certificate_number": "G2S 17 11 70752 022",
+        "date": "2017-12-28"
+    },
+    "7kwzc": {
+        "company_name": "ADVENTA HEALTH SDN. BHD.",
+        "certificate_number": "G2S 17 11 70752 022",
+        "date": "2017-12-28"
+    },
+    "7kwzk": {
+        "company_name": "Micsafe Medical Group (China) Co., Ltd",
+        "certificate_number": "G2MS 17 10 02079 004",
+        "date": "2017-12-28"
+    },
+    "7kwzs": {
+        "company_name": "Micsafe Medical Group (China) Co., Ltd",
+        "certificate_number": "G2MS 17 10 02079 004",
+        "date": "2017-12-28"
+    },
+    "7kxac": {
+        "company_name": "PVS N.V.",
+        "certificate_number": "CBS 17 12 89193 013",
+        "date": "2017-12-29"
+    },
+    "7kxak": {
+        "company_name": "Flextronics Sales &amp; Marketing (A-P) Ltd.",
+        "certificate_number": "CBS 17 12 55912 019",
+        "date": "2017-12-29"
+    },
+    "7kxb2": {
+        "company_name": "GD Midea Air-Conditioning Equipment Co., Ltd.",
+        "certificate_number": "CBS 17 12 54647 02680",
+        "date": "2017-12-29"
+    },
+    "7kxba": {
+        "company_name": "Imperial Air Conditioning (Pty) Ltd",
+        "certificate_number": "CBS 17 12 60220 041",
+        "date": "2017-12-29"
+    },
+    "7kxbq": {
+        "company_name": "Aquarius Deutschland GmbH",
+        "certificate_number": "CBS 17 12 83057 102",
+        "date": "2017-12-29"
+    },
+    "7kxby": {
+        "company_name": "Aquarius Deutschland GmbH",
+        "certificate_number": "CBS 17 12 83057 138",
+        "date": "2017-12-29"
+    },
+    "7kxcv": {
+        "company_name": "SOLUM CO.,LTD.",
+        "certificate_number": "CBS 17 12 93748 351",
+        "date": "2017-12-29"
+    },
+    "7kxdt": {
+        "company_name": "Inventec Corporation",
+        "certificate_number": "CBS 17 12 36683 272",
+        "date": "2017-12-29"
+    },
+    "7kxe1": {
+        "company_name": "Inventec Corporation",
+        "certificate_number": "CBS 17 12 36683 273",
+        "date": "2017-12-29"
+    },
+    "7kxe9": {
+        "company_name": "Guangdong Midea Kitchen Appliances Manufacturing Co.,Ltd",
+        "certificate_number": "CBS 17 12 76112 01621",
+        "date": "2017-12-29"
+    },
+    "7kxeh": {
+        "company_name": "Guangdong Midea Kitchen Appliances Manufacturing Co.,Ltd",
+        "certificate_number": "CBS 17 12 76112 01620",
+        "date": "2017-12-29"
+    },
+    "7kxf7": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "CBS 17 12 39909 771",
+        "date": "2017-12-29"
+    },
+    "7kxfu": {
+        "company_name": "Imagine POS LTD",
+        "certificate_number": "CBS 17 12 77345 031",
+        "date": "2017-12-29"
+    },
+    "7kxgk": {
+        "company_name": "AGC Lighting Co., Ltd.",
+        "certificate_number": "CBS 17 11 94381 045",
+        "date": "2017-12-29"
+    },
+    "7kxgs": {
+        "company_name": "Fresenius Medical Care Seating (Australia) Pty Ltd",
+        "certificate_number": "CBS 17 12 69639 008",
+        "date": "2017-12-29"
+    },
+    "7kxh0": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "CBS 17 12 39909 781",
+        "date": "2017-12-29"
+    },
+    "7kxhq": {
+        "company_name": "Fresenius Medical Care Seating (Australia) Pty Ltd",
+        "certificate_number": "CBS 17 12 69639 009",
+        "date": "2017-12-29"
+    },
+    "7kxhy": {
+        "company_name": "Shenzhen Haisen Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 99186 006",
+        "date": "2017-12-29"
+    },
+    "7kxi5": {
+        "company_name": "SHENZHEN MOSO ELECTRONICS TECHNOLOGY CO., LTD",
+        "certificate_number": "E8A 17 12 77716 142",
+        "date": "2017-12-29"
+    },
+    "7kxid": {
+        "company_name": "EAST Group Co., Ltd.",
+        "certificate_number": "N8A 17 12 76644 010",
+        "date": "2017-12-29"
+    },
+    "7kxjb": {
+        "company_name": "Shenzhen Haisen Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 99186 009",
+        "date": "2017-12-29"
+    },
+    "7kxjj": {
+        "company_name": "DONGGUAN BOKE LED DRIVERS CO., LTD.",
+        "certificate_number": "U6 17 12 89086 050",
+        "date": "2017-12-29"
+    },
+    "7kxk9": {
+        "company_name": "Zhongshan Quanmei Energy Technologies Co., Ltd",
+        "certificate_number": "Z2 17 12 03053 001",
+        "date": "2017-12-29"
+    },
+    "7kxkh": {
+        "company_name": "DONGGUAN BOKE LED DRIVERS CO., LTD.",
+        "certificate_number": "N8A 17 12 89086 051",
+        "date": "2017-12-29"
+    },
+    "7kxkp": {
+        "company_name": "Jiangxi Shenan Yaming Photoelectric Technology Co., Ltd.",
+        "certificate_number": "CBS 17 12 01047 017",
+        "date": "2017-12-29"
+    },
+    "7kxkw": {
+        "company_name": "DONGGUAN BOKE LED DRIVERS CO., LTD.",
+        "certificate_number": "B 17 12 89086 049",
+        "date": "2017-12-29"
+    },
+    "7kxl4": {
+        "company_name": "Kopen Electrical Co., Ltd.",
+        "certificate_number": "N8A 17 11 71154 072",
+        "date": "2017-12-29"
+    },
+    "7kxlm": {
+        "company_name": "Kopen Electrical Co., Ltd.",
+        "certificate_number": "Z1A 17 11 71154 071",
+        "date": "2017-12-29"
+    },
+    "7kxlu": {
+        "company_name": "Kopen Electrical Co., Ltd.",
+        "certificate_number": "Z1A 17 11 71154 071",
+        "date": "2017-12-29"
+    },
+    "7kxmq": {
+        "company_name": "TATA Tech (Huizhou) Company Limited",
+        "certificate_number": "E8A 17 12 79311 013",
+        "date": "2017-12-29"
+    },
+    "7kxn6": {
+        "company_name": "Vertiv Tech Co., Ltd",
+        "certificate_number": "CBS 17 12 02691 009",
+        "date": "2017-12-29"
+    },
+    "7kxne": {
+        "company_name": "SPRiNTUS GmbH",
+        "certificate_number": "E8A 17 12 03271 002",
+        "date": "2017-12-29"
+    },
+    "7kxo3": {
+        "company_name": "Aquil Star Precision Industrial (Shenzhen) Co., Ltd.",
+        "certificate_number": "N8A 17 12 85052 043",
+        "date": "2017-12-29"
+    },
+    "7kxor": {
+        "company_name": "Monitor Audio Ltd",
+        "certificate_number": "N8A 17 12 81832 030",
+        "date": "2017-12-29"
+    },
+    "7kxpx": {
+        "company_name": "Jiangsu Selon Electric Appliances Co., Ltd",
+        "certificate_number": "CBS 17 12 90861 024",
+        "date": "2017-12-29"
+    },
+    "7kxqm": {
+        "company_name": "REV Ritter GmbH",
+        "certificate_number": "E8A 17 12 11956 403",
+        "date": "2017-12-29"
+    },
+    "7kxqu": {
+        "company_name": "Ningbo Hailian Electric Appliance Co., Ltd.",
+        "certificate_number": "E8A 17 12 61194 384",
+        "date": "2017-12-29"
+    },
+    "7kxr2": {
+        "company_name": "Komperna\u00df Handelsgesellschaft mbH",
+        "certificate_number": "M8A 17 12 30574 01849",
+        "date": "2017-12-29"
+    },
+    "7kxra": {
+        "company_name": "Ningbo Hailian Electric Appliance Co., Ltd.",
+        "certificate_number": "M8A 17 12 61194 385",
+        "date": "2017-12-29"
+    },
+    "7kxsg": {
+        "company_name": "Huawei Technologies Co., Ltd.",
+        "certificate_number": "CBS 17 12 41829 03042",
+        "date": "2017-12-29"
+    },
+    "7kxtt": {
+        "company_name": "Jiangsu Runhai Xiangyuan Electric Power Equipment Co., Ltd.",
+        "certificate_number": "Z2 17 12 98020 003",
+        "date": "2017-12-29"
+    },
+    "7kxu1": {
+        "company_name": "Jiangsu Runhai Xiangyuan Electric Power Equipment Co., Ltd.",
+        "certificate_number": "Z2 17 12 98020 004",
+        "date": "2017-12-29"
+    },
+    "7kxuj": {
+        "company_name": "Juli New Energy Co., Ltd.",
+        "certificate_number": "N8A 17 12 77348 030",
+        "date": "2017-12-29"
+    },
+    "7kxur": {
+        "company_name": "Kwangjin S&amp;C Co., Ltd.",
+        "certificate_number": "CBS 17 12 03400 001",
+        "date": "2017-12-29"
+    },
+    "7kxvx": {
+        "company_name": "Juli New Energy Co., Ltd.",
+        "certificate_number": "N8A 17 12 77348 032",
+        "date": "2017-12-29"
+    },
+    "7kxw4": {
+        "company_name": "zencontrol Pty Ltd.",
+        "certificate_number": "CBS 17 12 96151 004",
+        "date": "2017-12-29"
+    },
+    "7kxwc": {
+        "company_name": "Daewoo Electronics Co., Ltd.",
+        "certificate_number": "CB 17 11 38507 183",
+        "date": "2017-12-29"
+    },
+    "7kxwk": {
+        "company_name": "Komperna\u00df Handelsgesellschaft mbH",
+        "certificate_number": "E8A 17 12 30574 01846",
+        "date": "2017-12-29"
+    },
+    "7kxws": {
+        "company_name": "Aquil Star Precision Industrial (Shenzhen) Co., Ltd.",
+        "certificate_number": "CBS 17 12 85052 044",
+        "date": "2017-12-29"
+    },
+    "7kxxa": {
+        "company_name": "Ningbo First-Rate Electrical Appliance Co., Ltd.",
+        "certificate_number": "E8A 17 12 70428 073",
+        "date": "2017-12-29"
+    },
+    "7kxxi": {
+        "company_name": "Franke Foodservice Solutions, Inc.",
+        "certificate_number": "CB 17 12 02631 005",
+        "date": "2017-12-29"
+    },
+    "7kxy6": {
+        "company_name": "Philips Lighting (China) Investment Co., Ltd",
+        "certificate_number": "E8A 17 12 74448 221",
+        "date": "2017-12-29"
+    },
+    "7kxyo": {
+        "company_name": "ECONESS ENERGY CO.,LTD.",
+        "certificate_number": "Z2 17 12 78439 033",
+        "date": "2017-12-29"
+    },
+    "7kxyv": {
+        "company_name": "ECONESS ENERGY CO.,LTD.",
+        "certificate_number": "Z2 17 12 78439 032",
+        "date": "2017-12-29"
+    },
+    "7kxz3": {
+        "company_name": "Guangdong Midea Consumer Electric Manufacturing Co., Ltd.",
+        "certificate_number": "E8A 17 12 51286 01122",
+        "date": "2017-12-29"
+    },
+    "7kyad": {
+        "company_name": "Tecan Austria GmbH",
+        "certificate_number": "U8 17 12 42864 136",
+        "date": "2017-12-29"
+    },
+    "7kyal": {
+        "company_name": "Tecan Austria GmbH",
+        "certificate_number": "U8 17 12 42864 134",
+        "date": "2017-12-29"
+    },
+    "7kyat": {
+        "company_name": "Tecan Austria GmbH",
+        "certificate_number": "U8 17 12 42864 137",
+        "date": "2017-12-29"
+    },
+    "7kyb1": {
+        "company_name": "TCL Technoly Electronics (Huizhou) Co., Ltd.",
+        "certificate_number": "U13 17 12 01385 002",
+        "date": "2017-12-29"
+    },
+    "7kyb9": {
+        "company_name": "TCL Technoly Electronics (Huizhou) Co., Ltd.",
+        "certificate_number": "U13 17 12 01385 002",
+        "date": "2017-12-29"
+    },
+    "7kybr": {
+        "company_name": "Anker Technology Co., Limited",
+        "certificate_number": "U8 17 12 88637 019",
+        "date": "2017-12-29"
+    },
+    "7kybz": {
+        "company_name": "NANPI KEXUN ELECTRONICS CO., LTD.",
+        "certificate_number": "U8V 17 12 97728 009",
+        "date": "2017-12-29"
+    },
+    "7kyc7": {
+        "company_name": "TEKA  KUCHENTECHNIK (MALAYSIA) SDN. BHD.",
+        "certificate_number": "CBS 17 12 86801 003",
+        "date": "2018-01-02"
+    },
+    "7kycf": {
+        "company_name": "Premiere Industrial Development Limited",
+        "certificate_number": "CBS 17 12 43876 008",
+        "date": "2018-01-02"
+    },
+    "7kycm": {
+        "company_name": "DONGGUAN BOKE LED DRIVERS CO., LTD.",
+        "certificate_number": "CBS 17 12 89086 052",
+        "date": "2018-01-02"
+    },
+    "7kyd4": {
+        "company_name": "MK Electric (M) Sdn Bhd",
+        "certificate_number": "CBS 17 12 69182 025",
+        "date": "2018-01-02"
+    },
+    "7kye7": {
+        "company_name": "HYS Enterprises Pte Ltd",
+        "certificate_number": "CLS1A 17 12 80444 013",
+        "date": "2018-01-02"
+    },
+    "7kyef": {
+        "company_name": "HYS Enterprises Pte Ltd",
+        "certificate_number": "CLS1A 17 12 80444 014",
+        "date": "2018-01-02"
+    },
+    "7kyen": {
+        "company_name": "Besco Building Supplies (SEA) Pte Ltd",
+        "certificate_number": "CLS1B 17 12 81275 041",
+        "date": "2018-01-02"
+    },
+    "7kyev": {
+        "company_name": "Whirlpool (China) CO., LTD.",
+        "certificate_number": "CBS 17 12 90847 142",
+        "date": "2018-01-02"
+    },
+    "7kyfd": {
+        "company_name": "Whirlpool (China) CO., LTD.",
+        "certificate_number": "CBS 17 12 90847 143",
+        "date": "2018-01-02"
+    },
+    "7kyfk": {
+        "company_name": "Whirlpool (China) CO., LTD.",
+        "certificate_number": "CBS 17 12 90847 141",
+        "date": "2018-01-02"
+    },
+    "7kyfs": {
+        "company_name": "Whirlpool (China) CO., LTD.",
+        "certificate_number": "CBS 17 12 90847 140",
+        "date": "2018-01-02"
+    },
+    "7kyg0": {
+        "company_name": "Whirlpool (China) CO., LTD.",
+        "certificate_number": "CBS 17 12 90847 139",
+        "date": "2018-01-02"
+    },
+    "7kyg8": {
+        "company_name": "Senchuang Industrial (Shenzhen) Co., Ltd.",
+        "certificate_number": "CBS 17 12 02461 001",
+        "date": "2018-01-02"
+    },
+    "7kygy": {
+        "company_name": "LG DISPLAY CO LTD",
+        "certificate_number": "CBS 18 01 99718 133",
+        "date": "2018-01-02"
+    },
+    "7kyhe": {
+        "company_name": "Kopen Electrical Co., Ltd.",
+        "certificate_number": "CBS 17 11 71154 073",
+        "date": "2018-01-02"
+    },
+    "7kyhm": {
+        "company_name": "Mapam s.r.l.",
+        "certificate_number": "E8A 17 12 94836 008",
+        "date": "2018-01-02"
+    },
+    "7kyi4": {
+        "company_name": "Shenzhen Zhengyuan Technology Co., Ltd.",
+        "certificate_number": "N8A 17 12 02082 020",
+        "date": "2018-01-02"
+    },
+    "7kyij": {
+        "company_name": "Mass Power Electronic Limited",
+        "certificate_number": "N8A 17 12 73014 538",
+        "date": "2018-01-02"
+    },
+    "7kyir": {
+        "company_name": "GRUPO DGEDIS SLU",
+        "certificate_number": "E8A 18 01 02729 005",
+        "date": "2018-01-02"
+    },
+    "7kyj9": {
+        "company_name": "Xiamen Xdroid Technology Co.,Ltd.",
+        "certificate_number": "CBS 17 12 98987 017",
+        "date": "2018-01-02"
+    },
+    "7kyjh": {
+        "company_name": "GME Technology (Shenzhen) Co., Ltd.",
+        "certificate_number": "CBS 17 12 92427 034",
+        "date": "2018-01-02"
+    },
+    "7kyjp": {
+        "company_name": "M-ONE PRODUCTS LTD.",
+        "certificate_number": "E8A 17 12 03111 001",
+        "date": "2018-01-02"
+    },
+    "7kyk5": {
+        "company_name": "VARTA Consumer Batteries GmbH &amp; Co. KGaA",
+        "certificate_number": "E8A 17 12 39909 725",
+        "date": "2018-01-02"
+    },
+    "7kykn": {
+        "company_name": "Dongguan JHS Electrical Co.,Ltd",
+        "certificate_number": "N8A 17 12 87671 159",
+        "date": "2018-01-02"
+    },
+    "7kykv": {
+        "company_name": "JIUZHOU GREEBLE",
+        "certificate_number": "N8A 17 12 85716 124",
+        "date": "2018-01-02"
+    },
+    "7kyla": {
+        "company_name": "Anhui Sanan Technology Co., Ltd.",
+        "certificate_number": "N8A 17 12 87183 065",
+        "date": "2018-01-02"
+    },
+    "7kyli": {
+        "company_name": "ZTE Corporation",
+        "certificate_number": "N8A 17 12 44913 775",
+        "date": "2018-01-02"
+    },
+    "7kym0": {
+        "company_name": "Liaoning Rongxin Xingye Power Technology Co., Ltd.",
+        "certificate_number": "N8A 17 12 03290 004",
+        "date": "2018-01-02"
+    },
+    "7kymo": {
+        "company_name": "VELONG ENTERPRISES CO.LTD",
+        "certificate_number": "T8A 17 12 02778 001",
+        "date": "2018-01-02"
+    },
+    "7kynm": {
+        "company_name": "Xiamen Yankon Energetic Lighting Co., Ltd.",
+        "certificate_number": "CBS 17 12 79563 034",
+        "date": "2018-01-02"
+    },
+    "7kyp7": {
+        "company_name": "Liaoning Rongxin Xingye Power Technology Co., Ltd.",
+        "certificate_number": "N8A 17 12 03290 002",
+        "date": "2018-01-02"
+    },
+    "7kypf": {
+        "company_name": "Liaoning Rongxin Xingye Power Technology Co., Ltd.",
+        "certificate_number": "Z1 17 12 03290 003",
+        "date": "2018-01-02"
+    },
+    "7kypx": {
+        "company_name": "Shenzhen King medical packaging sterilization service Co., Ltd.",
+        "certificate_number": "Q8 17 11 89601 004",
+        "date": "2018-01-02"
+    },
+    "7kyq5": {
+        "company_name": "Shenzhen King medical packaging sterilization service Co., Ltd.",
+        "certificate_number": "Q8 17 11 89601 004",
+        "date": "2018-01-02"
+    },
+    "7kyqd": {
+        "company_name": "Liaoning Rongxin Xingye Power Technology Co., Ltd.",
+        "certificate_number": "Z1 17 12 03290 001",
+        "date": "2018-01-02"
+    },
+    "7kyrq": {
+        "company_name": "LG Electronics Nanjing New Technology Co., Ltd",
+        "certificate_number": "CBS 17 12 48125 673",
+        "date": "2018-01-02"
+    },
+    "7kyry": {
+        "company_name": "Ceragem Co., Ltd.",
+        "certificate_number": "E8A 18 01 46113 089",
+        "date": "2018-01-02"
+    },
+    "7kyt4": {
+        "company_name": "Shenzhen Keyu Power Supply Technology Co., Ltd.",
+        "certificate_number": "E8A 18 01 82052 128",
+        "date": "2018-01-02"
+    },
+    "7kyu9": {
+        "company_name": "Nanjing Chervon Industry Co., Ltd.",
+        "certificate_number": "M8A 17 12 65473 030",
+        "date": "2018-01-02"
+    },
+    "7kyuh": {
+        "company_name": "Nanjing Chervon Industry Co., Ltd.",
+        "certificate_number": "M8A 17 12 65473 029",
+        "date": "2018-01-02"
+    },
+    "7kyup": {
+        "company_name": "HAGS Aneby AB",
+        "certificate_number": "Z2 17 12 22757 967",
+        "date": "2018-01-02"
+    },
+    "7kyuw": "empty",
+    "7kyux": "empty",
+    "7kyuy": "empty"
 }
